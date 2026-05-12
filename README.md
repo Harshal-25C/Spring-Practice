@@ -15,4 +15,3 @@
 ---
 
 ### Author
-Harshal Choudhary
