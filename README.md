@@ -10,6 +10,10 @@
 
 ---
 
+### Tech Stack
+
+---
+
 ### Author
 - Harshal Choudhary
 
