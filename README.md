@@ -6,15 +6,11 @@
 
 ---
 
-### Working
-
----
-
 ### Tech Stack
 
 ---
 
 ### Author
-- Harshal Choudhary
+- Harshal Choudhary[https://github.com/Harshal-25C]
 
 ---
